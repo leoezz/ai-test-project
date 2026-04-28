@@ -14,3 +14,10 @@ At first, I was a bit confused navigating Cursor and finding the right extension
 I selected LinkedIn organic content strategy for B2B SaaS as my topic. I researched several experts who consistently share valuable insights and analyzed their content approach.
 
 The goal is to understand how successful creators use LinkedIn to build audience and drive engagement in the B2B SaaS space.
+
+## Key Observations
+
+From reviewing these experts, I noticed that high-performing LinkedIn content in B2B SaaS often focuses on:
+- Simple, clear messaging instead of complex explanations
+- Personal experiences and storytelling
+- Actionable insights that can be applied immediately
