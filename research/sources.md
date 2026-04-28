@@ -39,3 +39,13 @@
 - Platform: LinkedIn
 - Link: https://www.linkedin.com/in/chriswalker171/
 - Why relevant: Focuses on demand generation and content impact.
+
+## 9. Sahil Bloom
+- Platform: LinkedIn
+- Link: https://www.linkedin.com/in/sahilbloom/
+- Why relevant: Shares clear, engaging content with strong storytelling and business insights.
+
+## 10. Nicolas Cole
+- Platform: LinkedIn
+- Link: https://www.linkedin.com/in/nicolascole77/
+- Why relevant: Focuses on writing frameworks and content strategy for online growth.
